@@ -1,1 +1,4 @@
 venv
+token.json
+pic
+__pycache__
